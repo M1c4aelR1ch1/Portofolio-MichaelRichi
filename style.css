@@ -34,11 +34,13 @@ nav li {
     margin-bottom: 100px;
 
   }
-  article p {
+  div p {
     margin-left: 50px;
     margin-right: 50px;
   }
   div h2{
+    background-color: indigo;
+    color :aliceblue;
     margin-top: 20px;
     margin-bottom : 20px;
 
