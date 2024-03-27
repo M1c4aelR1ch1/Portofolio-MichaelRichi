@@ -1,0 +1,41 @@
+nav {
+    background-color: #333;
+}
+  
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+  
+nav li {
+    float: left;
+  }
+  
+  nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav li a:hover {
+    background-color: #111;
+  }
+
+  nav li a {
+    transition: 0.3s;
+  }
+
+  header {
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+  }
+  article p {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom : 100 px;
+  }
