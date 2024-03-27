@@ -37,5 +37,9 @@ nav li {
   article p {
     margin-left: 50px;
     margin-right: 50px;
-    margin-bottom : 100 px;
+  }
+  div h2{
+    margin-top: 20px;
+    margin-bottom : 20px;
+
   }
