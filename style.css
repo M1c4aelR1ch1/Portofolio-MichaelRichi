@@ -41,14 +41,17 @@ nav li {
   div h2{
     background-color: indigo;
     color :aliceblue;
-    margin-top: 20px;
-    margin-bottom : 20px;
-
+    padding-top: 20px;
+    padding-bottom: 30px;
   }
+
   table, th, td {
-    border: 1px solid brown;
-    color :chartreuse;
-    background-color:black;
+    border: 1px solid indigo;
+    color : black;
+    background-color:aliceblue;
     padding-left: 50px;
     padding-right: 50px;
+}
+h6{
+  color:aliceblue;
 }
